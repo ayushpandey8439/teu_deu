@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+.App {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(36, 36, 36);
+}
+
+
+.Header {
+    height: 5vh;
+    background-color: rgb(219, 50, 50);
+    display: flex;
+    align-content: space-between;
+}
+
+
+.Logo{
+    display: flex;
+    align-items: center;
+}
